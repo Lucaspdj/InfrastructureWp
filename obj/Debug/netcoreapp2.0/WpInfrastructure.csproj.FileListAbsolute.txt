@@ -1,0 +1,9 @@
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\bin\Debug\netcoreapp2.0\WpInfrastructure.deps.json
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\bin\Debug\netcoreapp2.0\WpInfrastructure.dll
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.csprojResolveAssemblyReference.cache
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.csproj.CoreCompileInputs.cache
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.AssemblyInfoInputs.cache
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.AssemblyInfo.cs
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\bin\Debug\netcoreapp2.0\WpInfrastructure.pdb
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.dll
+C:\DevWebPix\WebPixEntrega\WebPixEntrega\InfrastructureWp\obj\Debug\netcoreapp2.0\WpInfrastructure.pdb
